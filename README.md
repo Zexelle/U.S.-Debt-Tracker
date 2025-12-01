@@ -2,7 +2,7 @@
 
 ## Overview 📝
 
-This project looks at how the U.S. national debt has changed over time. It uses Excel to organize and show the data so it’s easy to understand.
+This project analyzes historical trends in the U.S. national debt, using Excel to organize, visualize, and present the data in a clear and accessible format.
 
 ## Features ✨
 
