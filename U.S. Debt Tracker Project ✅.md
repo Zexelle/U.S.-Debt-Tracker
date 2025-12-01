@@ -10,7 +10,7 @@ An Excel project for a D.C. debt agency analyzing U.S. public and governmental d
 ## Questions and Insights
 📈 1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?
 
-![Screenshot 2025-11-30 181451.png](https://github.com/Zexelle/ExcelPortfolio/blob/main/Screenshot%202025-11-30%20181451.png)
+![U.S. Debt Tracker - Screenshot 1](https://github.com/Zexelle/ExcelPortfolio/blob/main/U.S.%20Debt%20Tracker%20-%20Screenshot%201)
 
 Summary/Conclusions:
 
@@ -24,7 +24,7 @@ In 2020, we see a large spike that was most likely caused by the Pandemic respon
 
 📅 2. Which months historically have seen the highest/lowest increases in Total debt?
 
-![Screenshot 2025-11-30 181534.png](https://github.com/Zexelle/ExcelPortfolio/blob/main/Screenshot%202025-11-30%20181534.png)
+![U.S. Debt Tracker - Screenshot 2](https://github.com/Zexelle/ExcelPortfolio/blob/main/U.S.%20Debt%20Tracker%20-%20Screenshot%202)
 
 Summary/Conclusions:
 
@@ -41,7 +41,7 @@ There are no major holidays during the low months so people are taking out less 
 
 🔮 3. What is the projected growth of the publicly held debt in the next few years?
 
-![Screenshot 2025-11-30 181607.png](https://github.com/Zexelle/ExcelPortfolio/blob/main/Screenshot%202025-11-30%20181607.png)
+![U.S. Debt Tracker - Screenshot 3](https://github.com/Zexelle/ExcelPortfolio/blob/main/U.S.%20Debt%20Tracker%20-%20Screenshot%203)
 
 Summary/Conclusions:
 
