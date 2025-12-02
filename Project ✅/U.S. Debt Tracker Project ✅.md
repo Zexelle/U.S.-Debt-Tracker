@@ -10,7 +10,7 @@ An Excel project for a D.C. debt agency analyzing U.S. public and governmental d
 ## Questions and Insights
 📈 1. What was the Yearly Debt Percentage Increase for each year compared to the previous year?
 
-![U.S. Debt Tracker - Screenshot 1](https://github.com/Zexelle/ExcelPortfolio/blob/main/U.S.%20Debt%20Tracker%20-%20Screenshot%201)
+![U.S. Debt Tracker - Screenshot 1](https://github.com/Zexelle/U.S.-Debt-Tracker/blob/main/Screenshots/Yearly%20Debt%20Percentage%20Increase.png)
 
 Summary/Conclusions:
 
