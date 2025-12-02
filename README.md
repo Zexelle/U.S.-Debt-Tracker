@@ -14,7 +14,7 @@ This project analyzes historical trends in the U.S. national debt, using Excel t
 
 ## Purpose 🎯
 
-- The goal of this project is to help anyone:
+The goal of this project is to help anyone:
 
 - Learn about U.S. national debt trends
 
