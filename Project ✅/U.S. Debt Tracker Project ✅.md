@@ -21,7 +21,7 @@ In 2020, we see a large spike that was most likely caused by the Pandemic respon
 
 📅 2. Which months historically have seen the highest/lowest increases in Total debt?
 
-![U.S. Debt Tracker - Screenshot 2](https://github.com/Zexelle/ExcelPortfolio/blob/main/U.S.%20Debt%20Tracker%20-%20Screenshot%202)
+![U.S. Debt Tracker - Screenshot 2](https://github.com/Zexelle/U.S.-Debt-Tracker/blob/main/Screenshots/Monthly%20Average%20Total%20Debts.png)
 
 Summary/Conclusions:
 
