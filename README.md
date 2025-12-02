@@ -21,3 +21,21 @@ The goal of this project is to help anyone:
 - Understand how the debt has grown over the years ⏳
 
 - Practice working with Excel for basic data analysis
+
+## 🧰 Tools & Techniques Used
+
+- Excel PivotTables
+
+- PivotCharts
+
+- Data cleaning (removing blanks, standardizing text, formatting dates)
+  
+- Excel formulas
+
+TEXT() for extracting day of week
+
+IF(), COUNTIF(), AVERAGEIF()
+
+- Conditional formatting for trend spotting
+
+- Data visualization (bar charts, column charts, line charts)
